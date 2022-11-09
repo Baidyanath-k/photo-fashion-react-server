@@ -1,113 +1,101 @@
 [
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Weddings",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://latitudetechnolabs.com/wp-content/uploads/2022/05/ReactJS-logo.png",
-      "image_url": "https://latitudetechnolabs.com/wp-content/uploads/2022/05/ReactJS-logo.png",
-      "details": "What is a React developer? A React developer designs and creates JavaScript-based applications for web or mobile environments. They typically specialize in front-end development. React is an open-source JavaScript library. It is sometimes referred to as React."
-    },
-    {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Portraits",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://www.interviewbit.com/blog/wp-content/uploads/2021/08/php-developer.jpg",
-      "image_url": "https://www.interviewbit.com/blog/wp-content/uploads/2021/08/php-developer.jpg",
-      "details": "According to the PHP’s website: “PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.”The server executes the PHP code, and then the client receives the generated HTML. It’s a relatively simple language for a newbie to learn. That simplicity doesn’t preclude an impressive number of advanced features that any experienced professional programmer will appreciate."
-    },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "price": 5000,
+        "title": "Weddings",
 
+        "thumbnail_url": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "image_url": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "details": "Keeping a wedding detail photos checklist will help you keep your A-game intact. You could merge this with your longer wedding shot list or keep it separate, whatever makes the job easy for you. If you are someone who is naturally inclined to forget about this (or any!) list, you could even set a reminder on your phone. Whatever method you pick to remember, try to ensure that you capture some detail photos at the wedding.At ShootDotEdit, we help photographers focus on the wedding with blogs like Creating a Wedding Day Shot List. We encourage you to give more time to your art and leave the editing to us. To learn more about how we can help your business, check out our price plans."
+    }, 
     {
-      "_id": "f69a695f037cd9484cecaea37ca71011",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "rating": { "number": 4.8, "badge": "Excellent" },
-      "total_view": 400,
-      "title": "Fashion",
-      "author": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1094991/image_0-1967657e3078be54d78ccc4d57eae106-f763757d0bd43e58ff9976083b458547-cb44e66cb24bbf150ab28ea5213e176c.png",
-      "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1094991/image_0-1967657e3078be54d78ccc4d57eae106-f763757d0bd43e58ff9976083b458547-cb44e66cb24bbf150ab28ea5213e176c.png",
-      "details": "A React developer designs and creates JavaScript-based applications for web or mobile environments. They typically specialize in front-end development. React is an open-source JavaScript library. It is sometimes referred to as React.js or ReactJS. In programming, libraries serve as toolkits for developers. Their contents may include configuration data, prewritten code, and message templates. "
-    },
+        
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "price": 3000,
+        "title": "Portraits",
+        "thumbnail_url": "https://media.istockphoto.com/id/1339653641/photo/connecting-kids-and-nature.jpg?s=612x612&w=is&k=20&c=8vmUsRaCR0oaHz0-EvHAC5lCpobv8qWtuZNu5XcBG6c=",
+        "image_url": "https://media.istockphoto.com/id/1339653641/photo/connecting-kids-and-nature.jpg?s=612x612&w=is&k=20&c=8vmUsRaCR0oaHz0-EvHAC5lCpobv8qWtuZNu5XcBG6c=",
+        "details": "Portrait photography is a style of photography that portrays human subjects. Portrait photography has been around since the dawn of photography, when Louis Daguerre invented the daguerreotype in 1839—the same year that Robert Cornelius aimed the camera at himself and took what is widely believed to be the first self portrait photograph (or “selfie” in modern parlance) ever, laying the groundwork for portrait photography to emerge as its own art form.When selecting an environment, consider that a soft, diffused natural light from an indirect source is best for shooting portraits. Direct, harsh light or a full sun can cast unwanted dark shadows or create unnatural skin colors. Use a diffuser like a soft box or a white sheet to help soften the light and produce a more flattering effect."
+    }, 
     {
-      "_id": "f69a695f037cd9484cecaea37ca71012",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "02",
-      "rating": { "number": 4.3, "badge": "Excellent" },
-      "total_view": 400,
-      "title": "Editorial",
-      "author": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190911190208/How-to-Become-A-Successful-Java-Developer.png",
-      "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190911190208/How-to-Become-A-Successful-Java-Developer.png",
-      "details": "ava is one of the most in-demand computer programming languages. It’s used in web applications from e-commerce websites to Android apps. If you want to be a programmer or work with programmers, taking a Java course will help you skill up for the job. Explore our wide range of up-to-date, top-rated Java courses. From primers to certification courses, we’ve got you covered."
-    },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 400,
+        "price": 10000,
+        "title": "Fashion",
+        "thumbnail_url": "https://images.unsplash.com/photo-1505022610485-0249ba5b3675?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "image_url": "https://images.unsplash.com/photo-1505022610485-0249ba5b3675?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "details": "Fashion photography focuses on the display of fashion clothing and items. It is most common on advertising boards and in fashion magazines. The photography will usually feature models wearing the display items. Fashion photography has existed almost as long as photography itself has been around.Studying a course will also give you the valuable opportunity of collaborating with designers, make-up artists, and models, giving you a glimpse into your future career. Graduates of photography can expect to land roles in fashion,editorial,video production,and more In this field, the wider your experience and portfolio,the better."
 
+    }, 
     {
-      "_id": "11468ed61aee84de492a8b04158a22f9",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "Birthday ",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-our-PHP-Developers.png",
-      "image_url": "https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-our-PHP-Developers.png",
-      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
-    },
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 400,
+        "price": 8000,
+        "title": "Editorial",
+        "thumbnail_url": "https://images.unsplash.com/photo-1519748771451-a94c596fad67?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "image_url": "https://images.unsplash.com/photo-1519748771451-a94c596fad67?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "details": "Editorial photography is images that appear alongside the text in print or online publications, which are created to help tell a story or support the narrative in the text, with a focus on creating a specific mood or tone for the pieceEditorial photography is one of the most popular niches in the industry. In fact, this is one of the types of photography we are most familiar with. Editorial photography is rooted in journalism and fashion. When you look at a magazine or any publication, the images found alongside the text can all be considered as editorial photographs. In this guide, we will give you the knowledge and tools you need to become an editorial photographer and create stunning editorial images for your online portfolio website. Let’s look at what it takes to become an editorial photographer."
+    }, 
     {
-      "_id": "11468ed61aee84de492a8b04158a22f0",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "Photo-Editing",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5uHWjkkwtqnGE70G9S5DYjJhfEqWUL3HmEg&usqp=CAU",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5uHWjkkwtqnGE70G9S5DYjJhfEqWUL3HmEg&usqp=CAU",
-      "details": "The US Bureau of Labor Statistics predicts an above-average 22 percent growth rate for software developer occupations between 2020 and 2030 [1]. If you’re interested in front-end development and web design, a React developer position may be a great fit for you. You can learn more about pursuing this career path in the following walkthrough. "
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "price": 3500,
+        "title": "Birthday",
+        "thumbnail_url": "https://plus.unsplash.com/premium_photo-1661265909145-88d75177655c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+        "image_url": "https://plus.unsplash.com/premium_photo-1661265909145-88d75177655c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+        "details": "Whether you do it for clients or for family and friends, birthday party photography can be challenging! You need to move quickly, not miss any activities, and be on point with your camera settings.If you’re just getting started, this can feel very overwhelming.When you are young, one of the most special days of the year is your birthday. Whether it’s a home party or a special day out, being creative and flexible is the best way to catch memorable birthday images. Children can be temperamental at the best of times, so always be ready to capture the smiles when they occur."
+    }, 
+    {
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "price": 6000,
+        "title": "Photo-Editing",
+        "thumbnail_url": "https://images.unsplash.com/photo-1531178625044-cc2a0fb353a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "image_url": "https://images.unsplash.com/photo-1531178625044-cc2a0fb353a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "details": "The basic photo editing techniques should be available in even simple editing programs, and each can enhance your images to make them more powerful and shareworthy. Advanced editing software will offer these basic tools and will also include refinements that allow you to do more sophisticated editing that’s outside the scope of this article. You don’t have to do all of the basic editing steps on every image, but the steps you choose to do should be done in the order listed.The easiest photos to edit, of course, are ones taken by a skilled photographer who takes time to get exceptional shots in the field. (You’ll also want to consider shooting in RAW image format for the greatest editing control. Read Understanding Your Camera to learn more about RAW vs. JPG image formats. You should also be certain your editing program can work with RAW images.) To start learning how to get the best shots, consider taking a hands-on photography course."
     }
-  ]
+]
