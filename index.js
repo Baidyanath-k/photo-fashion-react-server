@@ -41,6 +41,13 @@ async function run(){
             const service=await userALLCollection.findOne(query);
             res.send(service);
         })
+
+        app.post('/users',(req,res)=>{
+            const user=req.body;
+            user.id=users.length+1;
+            users.push(user);
+            res.send(user)
+        })
         
 
     }
